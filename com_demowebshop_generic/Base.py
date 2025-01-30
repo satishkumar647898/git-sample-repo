@@ -17,7 +17,7 @@ class BaseTest:
     def setup_driver(self, driver):
         self.driver = driver
 
-    def Excel.javascreenShot(self, resultMessage):
+    def sscreenShot(self, resultMessage):
         fileName = resultMessage+"."+str(round(time.time()*1000))+".png"
         screenshotDirectory = "../screenshots/"
         relativeFileName = screenshotDirectory+fileName
