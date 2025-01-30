@@ -1,0 +1,4 @@
+Hi, Good Afternoon, My Name is Satish Kumar and I am from Bihar I have done my B.Tech from Punjab technical university. I have Two years of exp. as an automation test engineer. currently I am working in LTIMindtree as quality engineer. In my current role, I have been testing the salesforce sales cloud application using java selenium.
+
+Hello, good morning
+
