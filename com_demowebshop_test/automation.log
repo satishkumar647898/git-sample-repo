@@ -1,0 +1,422 @@
+01/29/2025 11:22:39 AM : BaseTest : INFO : not all arguments converted during string formatting
+01/29/2025 11:23:46 AM : BaseTest : INFO : not all arguments converted during string formatting
+01/29/2025 11:24:37 AM : BaseTest : INFO : not all arguments converted during string formatting
+01/29/2025 11:25:57 AM : BaseTest : INFO : Element Clicked with Register and locator type is link
+01/29/2025 11:33:59 AM : BaseTest : INFO : not all arguments converted during string formatting
+01/29/2025 11:36:41 AM : BaseTest : INFO : Element found with locator : Register
+01/29/2025 11:36:42 AM : BaseTest : INFO : Element Clicked with Register and locator type is link
+01/29/2025 11:36:42 AM : BaseTest : INFO : Element is displayed with //h1[text()='Register'] and locator type is xpath
+01/29/2025 11:36:42 AM : BaseTest : INFO : Element found with locator : //h1[text()='Register']
+01/29/2025 11:36:42 AM : BaseTest : INFO : Element found with locator : gender-male
+01/29/2025 11:36:42 AM : BaseTest : INFO : Element Clicked with gender-male and locator type is id
+01/29/2025 11:36:42 AM : BaseTest : INFO : Element found with locator : FirstName
+01/29/2025 11:36:42 AM : BaseTest : INFO : Data Entered withFirstName and locator type is id
+01/29/2025 11:36:42 AM : BaseTest : INFO : Element found with locator : LastName
+01/29/2025 11:36:42 AM : BaseTest : INFO : Data Entered withLastName and locator type is id
+01/29/2025 11:36:43 AM : BaseTest : INFO : Element found with locator : Email
+01/29/2025 11:36:43 AM : BaseTest : INFO : Data Entered withEmail and locator type is id
+01/29/2025 11:36:43 AM : BaseTest : INFO : Element found with locator : Password
+01/29/2025 11:36:43 AM : BaseTest : INFO : Data Entered withPassword and locator type is id
+01/29/2025 11:36:43 AM : BaseTest : INFO : Element found with locator : ConfirmPassword
+01/29/2025 11:36:43 AM : BaseTest : INFO : Data Entered withConfirmPassword and locator type is id
+01/29/2025 11:36:43 AM : BaseTest : INFO : Element found with locator : register-button
+01/29/2025 11:36:44 AM : BaseTest : INFO : Element Clicked with register-button and locator type is name
+01/29/2025 11:36:44 AM : BaseTest : INFO : successfully fetched text from //div[@class='validation-summary-errors']//li and locator type is xpath
+01/29/2025 11:36:44 AM : BaseTest : INFO : Element found with locator : //div[@class='validation-summary-errors']//li
+01/29/2025 11:48:01 AM : BaseTest : INFO : Element found with locator : Register
+01/29/2025 11:48:01 AM : BaseTest : INFO : Element Clicked with Register and locator type is link
+01/29/2025 11:48:01 AM : BaseTest : INFO : Element is displayed with //h1[text()='Register'] and locator type is xpath
+01/29/2025 11:48:01 AM : BaseTest : INFO : Element found with locator : //h1[text()='Register']
+01/29/2025 11:48:02 AM : BaseTest : INFO : Element found with locator : gender-male
+01/29/2025 11:48:02 AM : BaseTest : INFO : Element Clicked with gender-male and locator type is id
+01/29/2025 11:48:02 AM : BaseTest : INFO : Element found with locator : FirstName
+01/29/2025 11:48:02 AM : BaseTest : INFO : Data Entered withFirstName and locator type is id
+01/29/2025 11:48:02 AM : BaseTest : INFO : Element found with locator : LastName
+01/29/2025 11:48:02 AM : BaseTest : INFO : Data Entered withLastName and locator type is id
+01/29/2025 11:48:02 AM : BaseTest : INFO : Element found with locator : Email
+01/29/2025 11:48:02 AM : BaseTest : INFO : Data Entered withEmail and locator type is id
+01/29/2025 11:48:02 AM : BaseTest : INFO : Element found with locator : Password
+01/29/2025 11:48:03 AM : BaseTest : INFO : Data Entered withPassword and locator type is id
+01/29/2025 11:48:03 AM : BaseTest : INFO : Element found with locator : ConfirmPassword
+01/29/2025 11:48:03 AM : BaseTest : INFO : Data Entered withConfirmPassword and locator type is id
+01/29/2025 11:48:03 AM : BaseTest : INFO : Element found with locator : register-button
+01/29/2025 11:48:04 AM : BaseTest : INFO : Element Clicked with register-button and locator type is name
+01/29/2025 11:48:04 AM : BaseTest : INFO : successfully fetched text from //div[@class='validation-summary-errors']//li and locator type is xpath
+01/29/2025 11:48:04 AM : BaseTest : INFO : Element found with locator : //div[@class='validation-summary-errors']//li
+01/29/2025 01:29:08 PM : BaseTest : INFO : Element found with locator : Register
+01/29/2025 01:29:09 PM : BaseTest : INFO : Element Clicked with Register and locator type is link
+01/29/2025 01:29:09 PM : BaseTest : INFO : Element is displayed with //h1[text()='Register'] and locator type is xpath
+01/29/2025 01:29:09 PM : BaseTest : INFO : Element found with locator : //h1[text()='Register']
+01/29/2025 01:29:09 PM : BaseTest : INFO : Element found with locator : gender-male
+01/29/2025 01:29:09 PM : BaseTest : INFO : Element Clicked with gender-male and locator type is id
+01/29/2025 01:29:09 PM : BaseTest : INFO : Element found with locator : FirstName
+01/29/2025 01:29:09 PM : BaseTest : INFO : Data Entered withFirstName and locator type is id
+01/29/2025 01:29:09 PM : BaseTest : INFO : Element found with locator : LastName
+01/29/2025 01:29:09 PM : BaseTest : INFO : Data Entered withLastName and locator type is id
+01/29/2025 01:29:09 PM : BaseTest : INFO : Element found with locator : Email
+01/29/2025 01:29:09 PM : BaseTest : INFO : Data Entered withEmail and locator type is id
+01/29/2025 01:29:09 PM : BaseTest : INFO : Element found with locator : Password
+01/29/2025 01:29:09 PM : BaseTest : INFO : Data Entered withPassword and locator type is id
+01/29/2025 01:29:09 PM : BaseTest : INFO : Element found with locator : ConfirmPassword
+01/29/2025 01:29:09 PM : BaseTest : INFO : Data Entered withConfirmPassword and locator type is id
+01/29/2025 01:29:09 PM : BaseTest : INFO : Element found with locator : register-button
+01/29/2025 01:29:11 PM : BaseTest : INFO : Element Clicked with register-button and locator type is name
+01/29/2025 01:29:11 PM : BaseTest : INFO : successfully fetched text from //div[@class='validation-summary-errors']//li and locator type is xpath
+01/29/2025 01:29:11 PM : BaseTest : INFO : Element found with locator : //div[@class='validation-summary-errors']//li
+01/29/2025 02:03:39 PM : BaseTest : INFO : Element found with locator : Register
+01/29/2025 02:03:39 PM : BaseTest : INFO : Element Clicked with Register and locator type is link
+01/29/2025 02:03:39 PM : BaseTest : INFO : Element is displayed with //h1[text()='Register'] and locator type is xpath
+01/29/2025 02:03:39 PM : BaseTest : INFO : Element found with locator : //h1[text()='Register']
+01/29/2025 02:03:39 PM : BaseTest : INFO : ### VERIFICATION SUCCESSFUL :: Register Link is Displayed
+01/29/2025 02:03:39 PM : BaseTest : INFO : Element found with locator : gender-male
+01/29/2025 02:03:39 PM : BaseTest : INFO : Element Clicked with gender-male and locator type is id
+01/29/2025 02:03:39 PM : BaseTest : INFO : Element found with locator : FirstName
+01/29/2025 02:03:39 PM : BaseTest : INFO : Data Entered withFirstName and locator type is id
+01/29/2025 02:03:39 PM : BaseTest : INFO : Element found with locator : LastName
+01/29/2025 02:03:39 PM : BaseTest : INFO : Data Entered withLastName and locator type is id
+01/29/2025 02:03:39 PM : BaseTest : INFO : Element found with locator : Email
+01/29/2025 02:03:39 PM : BaseTest : INFO : Data Entered withEmail and locator type is id
+01/29/2025 02:03:39 PM : BaseTest : INFO : Element found with locator : Password
+01/29/2025 02:03:40 PM : BaseTest : INFO : Data Entered withPassword and locator type is id
+01/29/2025 02:03:40 PM : BaseTest : INFO : Element found with locator : ConfirmPassword
+01/29/2025 02:03:40 PM : BaseTest : INFO : Data Entered withConfirmPassword and locator type is id
+01/29/2025 02:03:40 PM : BaseTest : INFO : Element found with locator : register-button
+01/29/2025 02:03:41 PM : BaseTest : INFO : Element Clicked with register-button and locator type is name
+01/29/2025 02:03:41 PM : BaseTest : INFO : successfully fetched text from //div[@class='validation-summary-errors']//li and locator type is xpath
+01/29/2025 02:03:41 PM : BaseTest : INFO : Element found with locator : //div[@class='validation-summary-errors']//li
+01/29/2025 02:03:41 PM : BaseTest : INFO : ### VERIFICATION SUCCESSFUL :: Error message Verified
+01/29/2025 02:03:41 PM : BaseTest : INFO : ### VERIFICATION SUCCESSFUL :: User Registered
+01/29/2025 02:03:41 PM : BaseTest : INFO : test_user_is_able_to_register_successfully ### TEST PASS SUCCESSFULLY !!!
+01/29/2025 02:05:42 PM : BaseTest : INFO : Element found with locator : Register
+01/29/2025 02:05:43 PM : BaseTest : INFO : Element Clicked with Register and locator type is link
+01/29/2025 02:05:43 PM : BaseTest : INFO : Element is displayed with //h1[text()='Register'] and locator type is xpath
+01/29/2025 02:05:43 PM : BaseTest : INFO : Element found with locator : //h1[text()='Register']
+01/29/2025 02:05:43 PM : BaseTest : INFO : ### VERIFICATION SUCCESSFUL :: Register Link is Displayed
+01/29/2025 02:05:43 PM : BaseTest : INFO : Element found with locator : gender-male
+01/29/2025 02:05:43 PM : BaseTest : INFO : Element Clicked with gender-male and locator type is id
+01/29/2025 02:05:43 PM : BaseTest : INFO : Element found with locator : FirstName
+01/29/2025 02:05:43 PM : BaseTest : INFO : Data Entered withFirstName and locator type is id
+01/29/2025 02:05:44 PM : BaseTest : INFO : Element found with locator : LastName
+01/29/2025 02:05:44 PM : BaseTest : INFO : Data Entered withLastName and locator type is id
+01/29/2025 02:05:44 PM : BaseTest : INFO : Element found with locator : Email
+01/29/2025 02:05:44 PM : BaseTest : INFO : Data Entered withEmail and locator type is id
+01/29/2025 02:05:44 PM : BaseTest : INFO : Element found with locator : Password
+01/29/2025 02:05:44 PM : BaseTest : INFO : Data Entered withPassword and locator type is id
+01/29/2025 02:05:44 PM : BaseTest : INFO : Element found with locator : ConfirmPassword
+01/29/2025 02:05:44 PM : BaseTest : INFO : Data Entered withConfirmPassword and locator type is id
+01/29/2025 02:05:44 PM : BaseTest : INFO : Element found with locator : register-button
+01/29/2025 02:05:45 PM : BaseTest : INFO : Element Clicked with register-button and locator type is name
+01/29/2025 02:05:45 PM : BaseTest : INFO : successfully fetched text from //div[@class='validation-summary-errors']//li and locator type is xpath
+01/29/2025 02:05:45 PM : BaseTest : INFO : Element found with locator : //div[@class='validation-summary-errors']//li
+01/29/2025 02:05:45 PM : BaseTest : INFO : ### VERIFICATION SUCCESSFUL :: error message Verified
+01/29/2025 02:05:45 PM : BaseTest : INFO : ### VERIFICATION SUCCESSFUL :: User Registered
+01/29/2025 02:05:45 PM : BaseTest : INFO : test_user_is_able_to_register_successfully ### TEST PASS SUCCESSFULLY !!!
+01/29/2025 02:07:03 PM : BaseTest : INFO : Element is displayed with //h1[text()='Register'] and locator type is xpath
+01/29/2025 02:07:23 PM : BaseTest : INFO : Element not found//h1[text()='Register'] and locator type is : xpath
+01/29/2025 02:08:31 PM : BaseTest : INFO : Element found with locator : Register
+01/29/2025 02:08:32 PM : BaseTest : INFO : Element Clicked with Register and locator type is link
+01/29/2025 02:08:32 PM : BaseTest : INFO : Element is displayed with //h1[text()='Register'] and locator type is xpath
+01/29/2025 02:08:32 PM : BaseTest : INFO : Element found with locator : //h1[text()='Register']
+01/29/2025 02:08:32 PM : BaseTest : INFO : ### VERIFICATION SUCCESSFUL :: Register Link is Displayed
+01/29/2025 02:08:32 PM : BaseTest : INFO : Element found with locator : gender-male
+01/29/2025 02:08:32 PM : BaseTest : INFO : Element Clicked with gender-male and locator type is id
+01/29/2025 02:08:32 PM : BaseTest : INFO : Element found with locator : FirstName
+01/29/2025 02:08:32 PM : BaseTest : INFO : Data Entered withFirstName and locator type is id
+01/29/2025 02:08:32 PM : BaseTest : INFO : Element found with locator : LastName
+01/29/2025 02:08:32 PM : BaseTest : INFO : Data Entered withLastName and locator type is id
+01/29/2025 02:08:32 PM : BaseTest : INFO : Element found with locator : Email
+01/29/2025 02:08:32 PM : BaseTest : INFO : Data Entered withEmail and locator type is id
+01/29/2025 02:08:32 PM : BaseTest : INFO : Element found with locator : Password
+01/29/2025 02:08:32 PM : BaseTest : INFO : Data Entered withPassword and locator type is id
+01/29/2025 02:08:32 PM : BaseTest : INFO : Element found with locator : ConfirmPassword
+01/29/2025 02:08:32 PM : BaseTest : INFO : Data Entered withConfirmPassword and locator type is id
+01/29/2025 02:08:32 PM : BaseTest : INFO : Element found with locator : register-button
+01/29/2025 02:08:33 PM : BaseTest : INFO : Element Clicked with register-button and locator type is name
+01/29/2025 02:08:33 PM : BaseTest : INFO : successfully fetched text from //div[@class='validation-summary-errors']//li and locator type is xpath
+01/29/2025 02:08:33 PM : BaseTest : INFO : Element found with locator : //div[@class='validation-summary-errors']//li
+01/29/2025 02:08:33 PM : BaseTest : INFO : ### VERIFICATION FAILED :: error message Verified
+01/29/2025 02:08:33 PM : BaseTest : INFO : ### VERIFICATION FAILED :: User Registered
+01/29/2025 02:08:33 PM : BaseTest : ERROR : test_user_is_able_to_register_successfully ### TEST FAILED !!!
+01/29/2025 02:58:27 PM : BaseTest : INFO : Element found with locator : Register
+01/29/2025 02:58:28 PM : BaseTest : INFO : Element Clicked with Register and locator type is link
+01/29/2025 02:58:28 PM : BaseTest : INFO : Element is displayed with //h1[text()='Register'] and locator type is xpath
+01/29/2025 02:58:28 PM : BaseTest : INFO : Element found with locator : //h1[text()='Register']
+01/29/2025 02:58:28 PM : BaseTest : INFO : ### VERIFICATION SUCCESSFUL :: Register Link is Displayed
+01/29/2025 02:58:28 PM : BaseTest : INFO : Element found with locator : gender-male
+01/29/2025 02:58:28 PM : BaseTest : INFO : Element Clicked with gender-male and locator type is id
+01/29/2025 02:58:28 PM : BaseTest : INFO : Element found with locator : FirstName
+01/29/2025 02:58:28 PM : BaseTest : INFO : Data Entered withFirstName and locator type is id
+01/29/2025 02:58:28 PM : BaseTest : INFO : Element found with locator : LastName
+01/29/2025 02:58:28 PM : BaseTest : INFO : Data Entered withLastName and locator type is id
+01/29/2025 02:58:28 PM : BaseTest : INFO : Element found with locator : Email
+01/29/2025 02:58:28 PM : BaseTest : INFO : Data Entered withEmail and locator type is id
+01/29/2025 02:58:28 PM : BaseTest : INFO : Element found with locator : Password
+01/29/2025 02:58:28 PM : BaseTest : INFO : Data Entered withPassword and locator type is id
+01/29/2025 02:58:28 PM : BaseTest : INFO : Element found with locator : ConfirmPassword
+01/29/2025 02:58:28 PM : BaseTest : INFO : Data Entered withConfirmPassword and locator type is id
+01/29/2025 02:58:28 PM : BaseTest : INFO : Element found with locator : register-button
+01/29/2025 02:58:29 PM : BaseTest : INFO : Element Clicked with register-button and locator type is name
+01/29/2025 02:58:29 PM : BaseTest : INFO : successfully fetched text from //div[@class='validation-summary-errors']//li and locator type is xpath
+01/29/2025 02:58:29 PM : BaseTest : INFO : Element found with locator : //div[@class='validation-summary-errors']//li
+01/29/2025 02:58:29 PM : BaseTest : INFO : ### VERIFICATION FAILED :: error message Verified
+01/29/2025 02:58:29 PM : BaseTest : ERROR : ### EXCEPTION OCCURRED !!! not all arguments converted during string formatting
+01/29/2025 02:59:49 PM : BaseTest : INFO : Element found with locator : Register
+01/29/2025 02:59:49 PM : BaseTest : INFO : Element Clicked with Register and locator type is link
+01/29/2025 02:59:49 PM : BaseTest : INFO : Element is displayed with //h1[text()='Register'] and locator type is xpath
+01/29/2025 02:59:49 PM : BaseTest : INFO : Element found with locator : //h1[text()='Register']
+01/29/2025 02:59:49 PM : BaseTest : INFO : ### VERIFICATION SUCCESSFUL :: Register Link is Displayed
+01/29/2025 02:59:49 PM : BaseTest : INFO : Element found with locator : gender-male
+01/29/2025 02:59:49 PM : BaseTest : INFO : Element Clicked with gender-male and locator type is id
+01/29/2025 02:59:49 PM : BaseTest : INFO : Element found with locator : FirstName
+01/29/2025 02:59:50 PM : BaseTest : INFO : Data Entered withFirstName and locator type is id
+01/29/2025 02:59:50 PM : BaseTest : INFO : Element found with locator : LastName
+01/29/2025 02:59:50 PM : BaseTest : INFO : Data Entered withLastName and locator type is id
+01/29/2025 02:59:50 PM : BaseTest : INFO : Element found with locator : Email
+01/29/2025 02:59:50 PM : BaseTest : INFO : Data Entered withEmail and locator type is id
+01/29/2025 02:59:50 PM : BaseTest : INFO : Element found with locator : Password
+01/29/2025 02:59:50 PM : BaseTest : INFO : Data Entered withPassword and locator type is id
+01/29/2025 02:59:50 PM : BaseTest : INFO : Element found with locator : ConfirmPassword
+01/29/2025 02:59:50 PM : BaseTest : INFO : Data Entered withConfirmPassword and locator type is id
+01/29/2025 02:59:50 PM : BaseTest : INFO : Element found with locator : register-button
+01/29/2025 02:59:51 PM : BaseTest : INFO : Element Clicked with register-button and locator type is name
+01/29/2025 02:59:51 PM : BaseTest : INFO : successfully fetched text from //div[@class='validation-summary-errors']//li and locator type is xpath
+01/29/2025 02:59:51 PM : BaseTest : INFO : Element found with locator : //div[@class='validation-summary-errors']//li
+01/29/2025 02:59:51 PM : BaseTest : INFO : ### VERIFICATION FAILED :: error message Verified
+01/29/2025 02:59:51 PM : BaseTest : INFO : Exception occurred !!'TestStatus' object has no attribute 'driver'
+01/29/2025 02:59:51 PM : BaseTest : INFO : ### VERIFICATION FAILED :: User Registered
+01/29/2025 02:59:51 PM : BaseTest : INFO : Exception occurred !!'TestStatus' object has no attribute 'driver'
+01/29/2025 02:59:51 PM : BaseTest : ERROR : test_user_is_able_to_register_successfully ### TEST FAILED !!!
+01/29/2025 03:01:53 PM : BaseTest : INFO : Element found with locator : Register
+01/29/2025 03:01:53 PM : BaseTest : INFO : Element Clicked with Register and locator type is link
+01/29/2025 03:01:53 PM : BaseTest : INFO : Element is displayed with //h1[text()='Register'] and locator type is xpath
+01/29/2025 03:01:53 PM : BaseTest : INFO : Element found with locator : //h1[text()='Register']
+01/29/2025 03:01:53 PM : BaseTest : INFO : ### VERIFICATION SUCCESSFUL :: Register Link is Displayed
+01/29/2025 03:01:53 PM : BaseTest : INFO : Element found with locator : gender-male
+01/29/2025 03:01:53 PM : BaseTest : INFO : Element Clicked with gender-male and locator type is id
+01/29/2025 03:01:53 PM : BaseTest : INFO : Element found with locator : FirstName
+01/29/2025 03:01:53 PM : BaseTest : INFO : Data Entered withFirstName and locator type is id
+01/29/2025 03:01:53 PM : BaseTest : INFO : Element found with locator : LastName
+01/29/2025 03:01:54 PM : BaseTest : INFO : Data Entered withLastName and locator type is id
+01/29/2025 03:01:54 PM : BaseTest : INFO : Element found with locator : Email
+01/29/2025 03:01:54 PM : BaseTest : INFO : Data Entered withEmail and locator type is id
+01/29/2025 03:01:54 PM : BaseTest : INFO : Element found with locator : Password
+01/29/2025 03:01:54 PM : BaseTest : INFO : Data Entered withPassword and locator type is id
+01/29/2025 03:01:54 PM : BaseTest : INFO : Element found with locator : ConfirmPassword
+01/29/2025 03:01:54 PM : BaseTest : INFO : Data Entered withConfirmPassword and locator type is id
+01/29/2025 03:01:54 PM : BaseTest : INFO : Element found with locator : register-button
+01/29/2025 03:01:55 PM : BaseTest : INFO : Element Clicked with register-button and locator type is name
+01/29/2025 03:01:55 PM : BaseTest : INFO : successfully fetched text from //div[@class='validation-summary-errors']//li and locator type is xpath
+01/29/2025 03:01:55 PM : BaseTest : INFO : Element found with locator : //div[@class='validation-summary-errors']//li
+01/29/2025 03:01:55 PM : BaseTest : INFO : ### VERIFICATION FAILED :: error message Verified
+01/29/2025 03:01:55 PM : BaseTest : INFO : Exception occurred !!'TestStatus' object has no attribute 'driver'
+01/29/2025 03:01:55 PM : BaseTest : INFO : ### VERIFICATION FAILED :: User Registered
+01/29/2025 03:01:55 PM : BaseTest : INFO : Exception occurred !!'TestStatus' object has no attribute 'driver'
+01/29/2025 03:01:55 PM : BaseTest : ERROR : test_user_is_able_to_register_successfully ### TEST FAILED !!!
+01/29/2025 03:04:37 PM : BaseTest : INFO : Element found with locator : Register
+01/29/2025 03:04:38 PM : BaseTest : INFO : Element Clicked with Register and locator type is link
+01/29/2025 03:04:38 PM : BaseTest : INFO : Element is displayed with //h1[text()='Register'] and locator type is xpath
+01/29/2025 03:04:38 PM : BaseTest : INFO : Element found with locator : //h1[text()='Register']
+01/29/2025 03:04:38 PM : BaseTest : INFO : ### VERIFICATION SUCCESSFUL :: Register Link is Displayed
+01/29/2025 03:04:38 PM : BaseTest : INFO : Element found with locator : gender-male
+01/29/2025 03:04:38 PM : BaseTest : INFO : Element Clicked with gender-male and locator type is id
+01/29/2025 03:04:38 PM : BaseTest : INFO : Element found with locator : FirstName
+01/29/2025 03:04:38 PM : BaseTest : INFO : Data Entered withFirstName and locator type is id
+01/29/2025 03:04:38 PM : BaseTest : INFO : Element found with locator : LastName
+01/29/2025 03:04:38 PM : BaseTest : INFO : Data Entered withLastName and locator type is id
+01/29/2025 03:04:38 PM : BaseTest : INFO : Element found with locator : Email
+01/29/2025 03:04:38 PM : BaseTest : INFO : Data Entered withEmail and locator type is id
+01/29/2025 03:04:38 PM : BaseTest : INFO : Element found with locator : Password
+01/29/2025 03:04:39 PM : BaseTest : INFO : Data Entered withPassword and locator type is id
+01/29/2025 03:04:39 PM : BaseTest : INFO : Element found with locator : ConfirmPassword
+01/29/2025 03:04:39 PM : BaseTest : INFO : Data Entered withConfirmPassword and locator type is id
+01/29/2025 03:04:39 PM : BaseTest : INFO : Element found with locator : register-button
+01/29/2025 03:04:39 PM : BaseTest : INFO : Element Clicked with register-button and locator type is name
+01/29/2025 03:04:39 PM : BaseTest : INFO : successfully fetched text from //div[@class='validation-summary-errors']//li and locator type is xpath
+01/29/2025 03:04:39 PM : BaseTest : INFO : Element found with locator : //div[@class='validation-summary-errors']//li
+01/29/2025 03:04:39 PM : BaseTest : INFO : ### VERIFICATION FAILED :: error message Verified
+01/29/2025 03:04:39 PM : BaseTest : INFO : Exception occurred !!'TestStatus' object has no attribute 'driver'
+01/29/2025 03:04:39 PM : BaseTest : INFO : ### VERIFICATION FAILED :: User Registered
+01/29/2025 03:04:39 PM : BaseTest : INFO : Exception occurred !!'TestStatus' object has no attribute 'driver'
+01/29/2025 03:04:39 PM : BaseTest : ERROR : test_user_is_able_to_register_successfully ### TEST FAILED !!!
+01/29/2025 03:04:39 PM : BaseTest : INFO : Exception occurred !!'TestStatus' object has no attribute 'driver'
+01/29/2025 03:09:37 PM : BaseTest : INFO : Element found with locator : Register
+01/29/2025 03:09:38 PM : BaseTest : INFO : Element Clicked with Register and locator type is link
+01/29/2025 03:09:38 PM : BaseTest : INFO : Element is displayed with //h1[text()='Register'] and locator type is xpath
+01/29/2025 03:09:38 PM : BaseTest : INFO : Element found with locator : //h1[text()='Register']
+01/29/2025 03:09:38 PM : BaseTest : INFO : ### VERIFICATION SUCCESSFUL :: Register Link is Displayed
+01/29/2025 03:09:38 PM : BaseTest : INFO : Element found with locator : gender-male
+01/29/2025 03:09:38 PM : BaseTest : INFO : Element Clicked with gender-male and locator type is id
+01/29/2025 03:09:38 PM : BaseTest : INFO : Element found with locator : FirstName
+01/29/2025 03:09:38 PM : BaseTest : INFO : Data Entered withFirstName and locator type is id
+01/29/2025 03:09:38 PM : BaseTest : INFO : Element found with locator : LastName
+01/29/2025 03:09:38 PM : BaseTest : INFO : Data Entered withLastName and locator type is id
+01/29/2025 03:09:38 PM : BaseTest : INFO : Element found with locator : Email
+01/29/2025 03:09:38 PM : BaseTest : INFO : Data Entered withEmail and locator type is id
+01/29/2025 03:09:38 PM : BaseTest : INFO : Element found with locator : Password
+01/29/2025 03:09:38 PM : BaseTest : INFO : Data Entered withPassword and locator type is id
+01/29/2025 03:09:38 PM : BaseTest : INFO : Element found with locator : ConfirmPassword
+01/29/2025 03:09:38 PM : BaseTest : INFO : Data Entered withConfirmPassword and locator type is id
+01/29/2025 03:09:38 PM : BaseTest : INFO : Element found with locator : register-button
+01/29/2025 03:09:39 PM : BaseTest : INFO : Element Clicked with register-button and locator type is name
+01/29/2025 03:09:39 PM : BaseTest : INFO : successfully fetched text from //div[@class='validation-summary-errors']//li and locator type is xpath
+01/29/2025 03:09:39 PM : BaseTest : INFO : Element found with locator : //div[@class='validation-summary-errors']//li
+01/29/2025 03:09:39 PM : BaseTest : INFO : ### VERIFICATION FAILED :: error message Verified
+01/29/2025 03:09:39 PM : BaseTest : INFO : Exception occurred !!'TestStatus' object has no attribute 'driver'
+01/29/2025 03:09:39 PM : BaseTest : INFO : ### VERIFICATION FAILED :: User Registered
+01/29/2025 03:09:39 PM : BaseTest : INFO : Exception occurred !!'TestStatus' object has no attribute 'driver'
+01/29/2025 03:09:39 PM : BaseTest : ERROR : test_user_is_able_to_register_successfully ### TEST FAILED !!!
+01/29/2025 03:09:39 PM : BaseTest : INFO : Exception occurred !!'TestStatus' object has no attribute 'driver'
+01/29/2025 03:13:51 PM : BaseTest : INFO : Element found with locator : Register
+01/29/2025 03:13:52 PM : BaseTest : INFO : Element Clicked with Register and locator type is link
+01/29/2025 03:13:52 PM : BaseTest : INFO : Element is displayed with //h1[text()='Register'] and locator type is xpath
+01/29/2025 03:13:52 PM : BaseTest : INFO : Element found with locator : //h1[text()='Register']
+01/29/2025 03:13:52 PM : BaseTest : INFO : ### VERIFICATION SUCCESSFUL :: Register Link is Displayed
+01/29/2025 03:13:52 PM : BaseTest : INFO : Element found with locator : gender-male
+01/29/2025 03:13:52 PM : BaseTest : INFO : Element Clicked with gender-male and locator type is id
+01/29/2025 03:13:52 PM : BaseTest : INFO : Element found with locator : FirstName
+01/29/2025 03:13:52 PM : BaseTest : INFO : Data Entered withFirstName and locator type is id
+01/29/2025 03:13:52 PM : BaseTest : INFO : Element found with locator : LastName
+01/29/2025 03:13:52 PM : BaseTest : INFO : Data Entered withLastName and locator type is id
+01/29/2025 03:13:52 PM : BaseTest : INFO : Element found with locator : Email
+01/29/2025 03:13:52 PM : BaseTest : INFO : Data Entered withEmail and locator type is id
+01/29/2025 03:13:52 PM : BaseTest : INFO : Element found with locator : Password
+01/29/2025 03:13:52 PM : BaseTest : INFO : Data Entered withPassword and locator type is id
+01/29/2025 03:13:52 PM : BaseTest : INFO : Element found with locator : ConfirmPassword
+01/29/2025 03:13:52 PM : BaseTest : INFO : Data Entered withConfirmPassword and locator type is id
+01/29/2025 03:13:52 PM : BaseTest : INFO : Element found with locator : register-button
+01/29/2025 03:13:53 PM : BaseTest : INFO : Element Clicked with register-button and locator type is name
+01/29/2025 03:13:53 PM : BaseTest : INFO : successfully fetched text from //div[@class='validation-summary-errors']//li and locator type is xpath
+01/29/2025 03:13:53 PM : BaseTest : INFO : Element found with locator : //div[@class='validation-summary-errors']//li
+01/29/2025 03:13:53 PM : BaseTest : INFO : ### VERIFICATION FAILED :: error message Verified
+01/29/2025 03:13:53 PM : BaseTest : INFO : Exception occurred !!'TestStatus' object has no attribute 'driver'
+01/29/2025 03:13:53 PM : BaseTest : INFO : ### VERIFICATION FAILED :: User Registered
+01/29/2025 03:13:53 PM : BaseTest : INFO : Exception occurred !!'TestStatus' object has no attribute 'driver'
+01/29/2025 03:13:53 PM : BaseTest : ERROR : test_user_is_able_to_register_successfully ### TEST FAILED !!!
+01/29/2025 03:13:53 PM : BaseTest : INFO : Exception occurred !!'TestStatus' object has no attribute 'driver'
+01/29/2025 03:17:54 PM : BaseTest : INFO : Element found with locator : Register
+01/29/2025 03:17:55 PM : BaseTest : INFO : Element Clicked with Register and locator type is link
+01/29/2025 03:17:55 PM : BaseTest : INFO : Element is displayed with //h1[text()='Register'] and locator type is xpath
+01/29/2025 03:17:55 PM : BaseTest : INFO : Element found with locator : //h1[text()='Register']
+01/29/2025 03:17:55 PM : BaseTest : INFO : ### VERIFICATION SUCCESSFUL :: Register Link is Displayed
+01/29/2025 03:17:55 PM : BaseTest : INFO : Element found with locator : gender-male
+01/29/2025 03:17:55 PM : BaseTest : INFO : Element Clicked with gender-male and locator type is id
+01/29/2025 03:17:55 PM : BaseTest : INFO : Element found with locator : FirstName
+01/29/2025 03:17:55 PM : BaseTest : INFO : Data Entered withFirstName and locator type is id
+01/29/2025 03:17:55 PM : BaseTest : INFO : Element found with locator : LastName
+01/29/2025 03:17:55 PM : BaseTest : INFO : Data Entered withLastName and locator type is id
+01/29/2025 03:17:55 PM : BaseTest : INFO : Element found with locator : Email
+01/29/2025 03:17:55 PM : BaseTest : INFO : Data Entered withEmail and locator type is id
+01/29/2025 03:17:55 PM : BaseTest : INFO : Element found with locator : Password
+01/29/2025 03:17:55 PM : BaseTest : INFO : Data Entered withPassword and locator type is id
+01/29/2025 03:17:55 PM : BaseTest : INFO : Element found with locator : ConfirmPassword
+01/29/2025 03:17:55 PM : BaseTest : INFO : Data Entered withConfirmPassword and locator type is id
+01/29/2025 03:17:55 PM : BaseTest : INFO : Element found with locator : register-button
+01/29/2025 03:17:56 PM : BaseTest : INFO : Element Clicked with register-button and locator type is name
+01/29/2025 03:17:56 PM : BaseTest : INFO : successfully fetched text from //div[@class='validation-summary-errors']//li and locator type is xpath
+01/29/2025 03:17:56 PM : BaseTest : INFO : Element found with locator : //div[@class='validation-summary-errors']//li
+01/29/2025 03:17:56 PM : BaseTest : INFO : ### VERIFICATION FAILED :: error message Verified
+01/29/2025 03:17:56 PM : BaseTest : INFO : Screenshot save to directory C:\Users\10820229\PycharmProjects\Demo_Web_Shhop\com_demowebshop_generic\../screenshots/error message Verified.1738144076587.png
+01/29/2025 03:17:56 PM : BaseTest : INFO : ### VERIFICATION FAILED :: User Registered
+01/29/2025 03:17:56 PM : BaseTest : INFO : Screenshot save to directory C:\Users\10820229\PycharmProjects\Demo_Web_Shhop\com_demowebshop_generic\../screenshots/User Registered.1738144076730.png
+01/29/2025 03:17:56 PM : BaseTest : ERROR : test_user_is_able_to_register_successfully ### TEST FAILED !!!
+01/29/2025 03:17:56 PM : BaseTest : INFO : Screenshot save to directory C:\Users\10820229\PycharmProjects\Demo_Web_Shhop\com_demowebshop_generic\../screenshots/User Registered.1738144076841.png
+01/29/2025 03:18:30 PM : BaseTest : INFO : Element found with locator : Register
+01/29/2025 03:18:31 PM : BaseTest : INFO : Element Clicked with Register and locator type is link
+01/29/2025 03:18:31 PM : BaseTest : INFO : Element is displayed with //h1[text()='Register'] and locator type is xpath
+01/29/2025 03:18:31 PM : BaseTest : INFO : Element found with locator : //h1[text()='Register']
+01/29/2025 03:18:31 PM : BaseTest : INFO : ### VERIFICATION SUCCESSFUL :: Register Link is Displayed
+01/29/2025 03:18:31 PM : BaseTest : INFO : Element found with locator : gender-male
+01/29/2025 03:18:31 PM : BaseTest : INFO : Element Clicked with gender-male and locator type is id
+01/29/2025 03:18:31 PM : BaseTest : INFO : Element found with locator : FirstName
+01/29/2025 03:18:31 PM : BaseTest : INFO : Data Entered withFirstName and locator type is id
+01/29/2025 03:18:31 PM : BaseTest : INFO : Element found with locator : LastName
+01/29/2025 03:18:31 PM : BaseTest : INFO : Data Entered withLastName and locator type is id
+01/29/2025 03:18:31 PM : BaseTest : INFO : Element found with locator : Email
+01/29/2025 03:18:31 PM : BaseTest : INFO : Data Entered withEmail and locator type is id
+01/29/2025 03:18:31 PM : BaseTest : INFO : Element found with locator : Password
+01/29/2025 03:18:31 PM : BaseTest : INFO : Data Entered withPassword and locator type is id
+01/29/2025 03:18:31 PM : BaseTest : INFO : Element found with locator : ConfirmPassword
+01/29/2025 03:18:31 PM : BaseTest : INFO : Data Entered withConfirmPassword and locator type is id
+01/29/2025 03:18:31 PM : BaseTest : INFO : Element found with locator : register-button
+01/29/2025 03:18:32 PM : BaseTest : INFO : Element Clicked with register-button and locator type is name
+01/29/2025 03:18:32 PM : BaseTest : INFO : successfully fetched text from //div[@class='validation-summary-errors']//li and locator type is xpath
+01/29/2025 03:18:32 PM : BaseTest : INFO : Element found with locator : //div[@class='validation-summary-errors']//li
+01/29/2025 03:18:32 PM : BaseTest : INFO : ### VERIFICATION FAILED :: error message Verified
+01/29/2025 03:18:32 PM : BaseTest : INFO : Screenshot save to directory C:\Users\10820229\PycharmProjects\Demo_Web_Shhop\com_demowebshop_generic\../screenshots/error message Verified.1738144112819.png
+01/29/2025 03:18:32 PM : BaseTest : INFO : ### VERIFICATION FAILED :: User Registered
+01/29/2025 03:18:33 PM : BaseTest : INFO : Screenshot save to directory C:\Users\10820229\PycharmProjects\Demo_Web_Shhop\com_demowebshop_generic\../screenshots/User Registered.1738144112919.png
+01/29/2025 03:18:33 PM : BaseTest : ERROR : test_user_is_able_to_register_successfully ### TEST FAILED !!!
+01/29/2025 03:18:33 PM : BaseTest : INFO : Screenshot save to directory C:\Users\10820229\PycharmProjects\Demo_Web_Shhop\com_demowebshop_generic\../screenshots/User Registered.1738144113034.png
+01/29/2025 03:19:28 PM : BaseTest : INFO : Element found with locator : Register
+01/29/2025 03:19:29 PM : BaseTest : INFO : Element Clicked with Register and locator type is link
+01/29/2025 03:19:29 PM : BaseTest : INFO : Element is displayed with //h1[text()='Register'] and locator type is xpath
+01/29/2025 03:19:29 PM : BaseTest : INFO : Element found with locator : //h1[text()='Register']
+01/29/2025 03:19:29 PM : BaseTest : INFO : ### VERIFICATION SUCCESSFUL :: Register Link is Displayed
+01/29/2025 03:19:29 PM : BaseTest : INFO : Element found with locator : gender-male
+01/29/2025 03:19:29 PM : BaseTest : INFO : Element Clicked with gender-male and locator type is id
+01/29/2025 03:19:29 PM : BaseTest : INFO : Element found with locator : FirstName
+01/29/2025 03:19:29 PM : BaseTest : INFO : Data Entered withFirstName and locator type is id
+01/29/2025 03:19:29 PM : BaseTest : INFO : Element found with locator : LastName
+01/29/2025 03:19:29 PM : BaseTest : INFO : Data Entered withLastName and locator type is id
+01/29/2025 03:19:29 PM : BaseTest : INFO : Element found with locator : Email
+01/29/2025 03:19:29 PM : BaseTest : INFO : Data Entered withEmail and locator type is id
+01/29/2025 03:19:29 PM : BaseTest : INFO : Element found with locator : Password
+01/29/2025 03:19:29 PM : BaseTest : INFO : Data Entered withPassword and locator type is id
+01/29/2025 03:19:29 PM : BaseTest : INFO : Element found with locator : ConfirmPassword
+01/29/2025 03:19:29 PM : BaseTest : INFO : Data Entered withConfirmPassword and locator type is id
+01/29/2025 03:19:29 PM : BaseTest : INFO : Element found with locator : register-button
+01/29/2025 03:19:30 PM : BaseTest : INFO : Element Clicked with register-button and locator type is name
+01/29/2025 03:19:30 PM : BaseTest : INFO : successfully fetched text from //div[@class='validation-summary-errors']//li and locator type is xpath
+01/29/2025 03:19:30 PM : BaseTest : INFO : Element found with locator : //div[@class='validation-summary-errors']//li
+01/29/2025 03:19:30 PM : BaseTest : INFO : ### VERIFICATION FAILED :: error message Verified
+01/29/2025 03:19:30 PM : BaseTest : INFO : Screenshot save to directory C:\Users\10820229\PycharmProjects\Demo_Web_Shhop\com_demowebshop_generic\../screenshots/error message Verified.1738144170811.png
+01/29/2025 03:19:30 PM : BaseTest : INFO : ### VERIFICATION FAILED :: User Registered
+01/29/2025 03:19:31 PM : BaseTest : INFO : Screenshot save to directory C:\Users\10820229\PycharmProjects\Demo_Web_Shhop\com_demowebshop_generic\../screenshots/User Registered.1738144170901.png
+01/29/2025 03:19:31 PM : BaseTest : ERROR : test_user_is_able_to_register_successfully ### TEST FAILED !!!
+01/29/2025 03:20:26 PM : BaseTest : INFO : Element found with locator : Register
+01/29/2025 03:20:27 PM : BaseTest : INFO : Element Clicked with Register and locator type is link
+01/29/2025 03:20:27 PM : BaseTest : INFO : Element is displayed with //h1[text()='Register'] and locator type is xpath
+01/29/2025 03:20:27 PM : BaseTest : INFO : Element found with locator : //h1[text()='Register']
+01/29/2025 03:20:27 PM : BaseTest : INFO : ### VERIFICATION SUCCESSFUL :: Register Link is Displayed
+01/29/2025 03:20:27 PM : BaseTest : INFO : Element found with locator : gender-male
+01/29/2025 03:20:27 PM : BaseTest : INFO : Element Clicked with gender-male and locator type is id
+01/29/2025 03:20:27 PM : BaseTest : INFO : Element found with locator : FirstName
+01/29/2025 03:20:27 PM : BaseTest : INFO : Data Entered withFirstName and locator type is id
+01/29/2025 03:20:27 PM : BaseTest : INFO : Element found with locator : LastName
+01/29/2025 03:20:27 PM : BaseTest : INFO : Data Entered withLastName and locator type is id
+01/29/2025 03:20:27 PM : BaseTest : INFO : Element found with locator : Email
+01/29/2025 03:20:27 PM : BaseTest : INFO : Data Entered withEmail and locator type is id
+01/29/2025 03:20:27 PM : BaseTest : INFO : Element found with locator : Password
+01/29/2025 03:20:27 PM : BaseTest : INFO : Data Entered withPassword and locator type is id
+01/29/2025 03:20:27 PM : BaseTest : INFO : Element found with locator : ConfirmPassword
+01/29/2025 03:20:27 PM : BaseTest : INFO : Data Entered withConfirmPassword and locator type is id
+01/29/2025 03:20:27 PM : BaseTest : INFO : Element found with locator : register-button
+01/29/2025 03:20:28 PM : BaseTest : INFO : Element Clicked with register-button and locator type is name
+01/29/2025 03:20:28 PM : BaseTest : INFO : successfully fetched text from //div[@class='validation-summary-errors']//li and locator type is xpath
+01/29/2025 03:20:28 PM : BaseTest : INFO : Element found with locator : //div[@class='validation-summary-errors']//li
+01/29/2025 03:20:28 PM : BaseTest : INFO : ### VERIFICATION FAILED :: error message Verified
+01/29/2025 03:20:28 PM : BaseTest : INFO : Screenshot save to directory C:\Users\10820229\PycharmProjects\Demo_Web_Shhop\com_demowebshop_generic\../screenshots/error message Verified.1738144228816.png
+01/29/2025 03:20:28 PM : BaseTest : ERROR : test_user_is_able_to_register_successfully ### TEST FAILED !!!
+01/29/2025 03:27:12 PM : BaseTest : INFO : Element found with locator : Register
+01/29/2025 03:27:13 PM : BaseTest : INFO : Element Clicked with Register and locator type is link
+01/29/2025 03:27:13 PM : BaseTest : INFO : Element is displayed with //h1[text()='Register'] and locator type is xpath
+01/29/2025 03:27:13 PM : BaseTest : INFO : Element found with locator : //h1[text()='Register']
+01/29/2025 03:27:13 PM : BaseTest : INFO : ### VERIFICATION SUCCESSFUL :: Register Link is Displayed
+01/29/2025 03:27:13 PM : BaseTest : INFO : Element found with locator : gender-male
+01/29/2025 03:27:13 PM : BaseTest : INFO : Element Clicked with gender-male and locator type is id
+01/29/2025 03:27:13 PM : BaseTest : INFO : Element found with locator : FirstName
+01/29/2025 03:27:13 PM : BaseTest : INFO : Data Entered withFirstName and locator type is id
+01/29/2025 03:27:13 PM : BaseTest : INFO : Element found with locator : LastName
+01/29/2025 03:27:13 PM : BaseTest : INFO : Data Entered withLastName and locator type is id
+01/29/2025 03:27:13 PM : BaseTest : INFO : Element found with locator : Email
+01/29/2025 03:27:13 PM : BaseTest : INFO : Data Entered withEmail and locator type is id
+01/29/2025 03:27:13 PM : BaseTest : INFO : Element found with locator : Password
+01/29/2025 03:27:13 PM : BaseTest : INFO : Data Entered withPassword and locator type is id
+01/29/2025 03:27:13 PM : BaseTest : INFO : Element found with locator : ConfirmPassword
+01/29/2025 03:27:13 PM : BaseTest : INFO : Data Entered withConfirmPassword and locator type is id
+01/29/2025 03:27:13 PM : BaseTest : INFO : Element found with locator : register-button
+01/29/2025 03:27:14 PM : BaseTest : INFO : Element Clicked with register-button and locator type is name
+01/29/2025 03:27:14 PM : BaseTest : INFO : successfully fetched text from //div[@class='validation-summary-errors']//li and locator type is xpath
+01/29/2025 03:27:14 PM : BaseTest : INFO : Element found with locator : //div[@class='validation-summary-errors']//li
+01/29/2025 03:27:14 PM : BaseTest : INFO : ### VERIFICATION SUCCESSFUL :: error message Verified
+01/29/2025 03:27:14 PM : BaseTest : INFO : test_user_is_able_to_register_successfully ### TEST PASS SUCCESSFULLY !!!
